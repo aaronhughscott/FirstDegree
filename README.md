@@ -1,5 +1,5 @@
 # FirstDegree
-Android project that records customer input for band preferences
+Android project that records customer input for band attendance
 first page asks user for initial set up( number of artist and how much each ticket is)
 second page will make text input to create a box for each band/artist based on the number that was input before.
 third page will allow you to place tallies next to each artist so the person at the door is able to record how many each artist is bring in to the event.
